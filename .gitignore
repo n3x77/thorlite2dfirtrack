@@ -314,3 +314,7 @@ pip-selfcheck.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,git,python,pycharm,venv,virtualenv
+#
+# remove testdata folder
+testdata/*
+testdata/
